@@ -1,0 +1,29 @@
+*{
+    background-color:lightblue;
+    size:20px;
+    text-align: center;
+
+
+background-image: url("https://i.pinimg.com/736x/0e/4c/24/0e4c242a7ed4fbea8bc13dec71d06968.jpg");
+background-size: cover;
+}
+body{
+    display:flex;
+
+}
+header{
+    color:brown;
+    background-color:green
+    font-c
+}
+nav{
+
+}
+nav ul{
+}
+nav ul li{
+}
+nav ul li a{
+}
+.cta{
+}
